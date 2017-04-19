@@ -1,4 +1,7 @@
-# test coverage for  [react-tools (v0.13.3)](https://facebook.github.io/react)  [![npm package](https://img.shields.io/npm/v/npmtest-react-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-tools.svg)](https://travis-ci.org/npmtest/node-npmtest-react-tools)
+# npmtest-react-tools
+
+#### basic test coverage for  [react-tools (v0.13.3)](https://facebook.github.io/react)  [![npm package](https://img.shields.io/npm/v/npmtest-react-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-tools.svg)](https://travis-ci.org/npmtest/node-npmtest-react-tools)
+
 #### A set of complementary tools to React, including the JSX transformer.
 
 [![NPM](https://nodei.co/npm/react-tools.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-tools)
